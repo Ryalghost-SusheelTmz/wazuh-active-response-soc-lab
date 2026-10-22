@@ -1,0 +1,5 @@
+<!-- Wazuh 4.x Linux agent configuration FRAGMENT, not full ossec.conf. Merge safely in <ossec_config>. -->
+<syscheck>
+  <disabled>no</disabled>
+  <directories check_all="yes" realtime="yes">/home/soc-lab/soc-fim-test</directories>
+</syscheck>
