@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.pcap
+*.pcapng
+*.log
+*.vmdk
+*.ova
+*.qcow2
+__pycache__/
+.pytest_cache/
+secrets/
+credentials/
