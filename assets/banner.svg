@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Wazuh SOC Lab portfolio banner">
+<defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#061827"/><stop offset="1" stop-color="#112d47"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#g)"/>
+<rect x="26" y="26" width="1148" height="248" rx="18" fill="none" stroke="#247e92" stroke-width="2"/>
+<circle cx="140" cy="142" r="72" fill="#0d3c4b" stroke="#27d2ce" stroke-width="4"/>
+<path d="M140 94 L181 110 V149 Q179 178 140 193 Q101 178 99 149 V110Z" fill="none" stroke="#c3fff7" stroke-width="5"/>
+<path d="M123 146 L136 159 L161 129" fill="none" stroke="#22d7c7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="247" y="105" fill="#f3fbff" font-size="37" font-weight="bold" font-family="Arial,sans-serif">WAZUH SOC LAB</text>
+<text x="247" y="150" fill="#59dbd3" font-size="27" font-family="Arial,sans-serif">Threat Detection &amp; Active Response</text>
+<text x="247" y="192" fill="#b0cfdd" font-size="21" font-family="Arial,sans-serif">FIM  /  VirusTotal  /  pfSense  /  Incident Triage</text>
+<text x="247" y="236" fill="#8bb6c9" font-size="17" font-family="Arial,sans-serif">SUSHIL TAMANG  •  SOC LEVEL 1 PORTFOLIO  •  ISOLATED LAB</text>
+</svg>
