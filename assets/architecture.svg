@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="495" viewBox="0 0 1200 495" role="img" aria-label="Illustrative Wazuh security operations lab architecture">
+<rect width="1200" height="495" rx="22" fill="#091b2b"/>
+<text x="38" y="51" fill="#eafaff" font-family="Arial,sans-serif" font-size="27" font-weight="bold">Conceptual SOC lab architecture</text>
+<text x="38" y="81" fill="#8fb7c8" font-family="Arial,sans-serif" font-size="17">Illustration only — network addresses and configurations must be verified in the actual lab</text>
+<rect x="45" y="118" width="300" height="272" rx="19" fill="#122f47" stroke="#368b9c" stroke-width="2"/>
+<text x="195" y="151" text-anchor="middle" fill="#9df4e9" font-size="22" font-family="Arial,sans-serif">VMware Lab</text>
+<rect x="72" y="179" width="246" height="64" rx="12" fill="#25485f"/><text x="195" y="219" text-anchor="middle" fill="white" font-size="20" font-family="Arial,sans-serif">Windows + Wazuh Agent</text>
+<rect x="72" y="256" width="246" height="64" rx="12" fill="#25485f"/><text x="195" y="296" text-anchor="middle" fill="white" font-size="20" font-family="Arial,sans-serif">Linux + Wazuh Agent</text>
+<text x="195" y="359" text-anchor="middle" fill="#a8c9d6" font-size="17" font-family="Arial,sans-serif">FIM and endpoint logs</text>
+<rect x="430" y="176" width="284" height="162" rx="19" fill="#173750" stroke="#21c6b6" stroke-width="3"/>
+<text x="572" y="218" text-anchor="middle" fill="#eaffff" font-size="23" font-weight="bold" font-family="Arial,sans-serif">Wazuh Server</text>
+<text x="572" y="251" text-anchor="middle" fill="#b7d8e5" font-size="18" font-family="Arial,sans-serif">Alerts · FIM · SCA</text>
+<text x="572" y="281" text-anchor="middle" fill="#b7d8e5" font-size="18" font-family="Arial,sans-serif">Rules and integrations</text>
+<rect x="795" y="121" width="360" height="113" rx="17" fill="#18384c" stroke="#4b93cf" stroke-width="2"/>
+<text x="975" y="165" text-anchor="middle" fill="#eafaff" font-size="23" font-family="Arial,sans-serif">Security Dashboard</text>
+<text x="975" y="197" text-anchor="middle" fill="#a8c9d6" font-size="17" font-family="Arial,sans-serif">Alert triage + case notes</text>
+<rect x="795" y="269" width="360" height="113" rx="17" fill="#18384c" stroke="#b4a05b" stroke-width="2"/>
+<text x="975" y="313" text-anchor="middle" fill="#eafaff" font-size="22" font-family="Arial,sans-serif">VirusTotal Enrichment</text>
+<text x="975" y="345" text-anchor="middle" fill="#a8c9d6" font-size="17" font-family="Arial,sans-serif">Hash reputation (optional)</text>
+<path d="M345 257 H425" stroke="#2bdac8" stroke-width="5" fill="none"/><path d="M412 245 L428 257 L412 269" stroke="#2bdac8" stroke-width="4" fill="none"/>
+<path d="M714 216 H791" stroke="#62b3ee" stroke-width="5" fill="none"/><path d="M779 204 L794 216 L779 228" stroke="#62b3ee" stroke-width="4" fill="none"/>
+<path d="M714 295 H790" stroke="#c8b57f" stroke-width="5" stroke-dasharray="10 7" fill="none"/><path d="M777 283 L792 295 L777 307" stroke="#c8b57f" stroke-width="4" fill="none"/>
+<text x="44" y="435" fill="#9dbecf" font-size="18" font-family="Arial,sans-serif">pfSense provides isolation, segmentation and network policy around the lab.</text>
+<text x="44" y="464" fill="#9dbecf" font-size="18" font-family="Arial,sans-serif">Response runs only after appropriate validation and authorization.</text>
+</svg>
