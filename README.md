@@ -65,7 +65,7 @@ The design separates user, guest, server and administrative traffic to reduce un
 
 ![Original pfSense and VMware network architecture](screenshots/01-network-architecture.jpg)
 
-*Figure 1 — Original Kaplan Financials enterprise lab architecture diagram.*
+*Figure 1 — Frictional Financials enterprise lab architecture diagram in an isolated environment.*
 
 ### 02 — Install Wazuh and verify the manager service
 
